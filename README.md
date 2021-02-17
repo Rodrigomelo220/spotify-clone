@@ -1,4 +1,4 @@
-# Spotify clone
+# Spotify Clone
 Este projeto consiste na criação de uma interface igual ao Spotify, utilizando bootstrap.
  
  ***
