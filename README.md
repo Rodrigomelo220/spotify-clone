@@ -19,4 +19,4 @@ Este projeto consiste na criação de uma interface igual ao Spotify, utilizando
 ***
 
 ### O projeto também está disponível no GitHub pages:
-Que pode ser acessado por aqui, [Spotify]().
+Que pode ser acessado por aqui, [Spotify](https://rodrigomelo220.github.io/spotify-clone/).
