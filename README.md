@@ -1,5 +1,5 @@
 # Spotify Clone
-Este projeto consiste na criação de uma interface igual ao Spotify, utilizando bootstrap.
+Este projeto consiste na criação de uma interface igual ao Spotify, utilizando bootstrap tornando o projeto 100% resposivo, podendo ser visualizado perfeitamente em dispositivos moveis ou desktop.
  
  ***
  
